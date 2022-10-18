@@ -1,7 +1,7 @@
 {
-    "name": "AldiXaisyah",
+    "name": "AldiXAgung",
     "version": "3.0.0",
-    "description": "WhatsApp BOT By Aldi",
+    "description": "WhatsApp BOT By Agung",
     "main": "index.js",
     "type": "module",
     "directories": {
