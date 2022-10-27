@@ -125,7 +125,7 @@ global.sdc = '-' //discord
 global.snh = ''-''
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = ''-''
+global.pdana = '6285709420641'
 global.povo = '-'
 global.pgopay = ''-''
 global.plinkaja = '-' //link aja
